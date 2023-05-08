@@ -17,7 +17,7 @@ To remove clutter I didn't embed them into this document directly. You can navig
 ## How do I use?
 
 ### Using pre-packaged binaries
-    Head over to releases and grab the suitable binaries for your operating system if available. Currently I run linux so there should be Linux and android executables.
+Head over to releases and grab the suitable binaries for your operating system if available. Currently I run linux so there should be Linux and android executables.
 ### Running directly from source
 The app is written using flutter. A great UI library. After installing flutter for your OS, Navigate either into familyfeud or familyfeudbtn directory inside a terminal and run `flutter run`. This will launch the app inside debug mode. Alternatively you can run `flutter build` to build for your own device *ahem* windows *ahem* and `flutter build apk` to build for your android device.
 
